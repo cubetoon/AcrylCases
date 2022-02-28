@@ -1,6 +1,6 @@
 # AcrylCases
 
-Collection of svg drawings for the protection of various (development) boards.
+Collection of svg drawings to create (mill, print, etc.) protective cases for various (development) boards.
 
 ## Content
 
