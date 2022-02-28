@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="LyraT 4.3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="1.4681257"
+     inkscape:cx="293.57159"
+     inkscape:cy="318.43322"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="148.48422,163.93665"
+       orientation="1,0"
+       id="guide113" />
+    <sodipodi:guide
+       position="145.98422,255.9102"
+       orientation="-1,0"
+       id="guide115"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="81.98422,278.61773"
+       orientation="-1,0"
+       id="guide117"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="113.48422,244.73666"
+       orientation="-1,0"
+       id="guide119"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="87.98422,275.01335"
+       orientation="-1,0"
+       id="guide121"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="148.48422,244.73666"
+       orientation="0,-1"
+       id="guide123" />
+    <sodipodi:guide
+       position="167.96359,242.13667"
+       orientation="0,1"
+       id="guide125"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="188.50849,184.63667"
+       orientation="0,1"
+       id="guide127"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="148.48422,175.93665"
+       orientation="0,1"
+       id="guide728"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="52.984221,244.73666"
+       orientation="1,0"
+       id="guide730" />
+    <sodipodi:guide
+       position="155.88895,178.53665"
+       orientation="0,1"
+       id="guide800"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-31.177791,275.73423"
+       orientation="0.70710678,-0.70710678"
+       id="guide1099" />
+    <sodipodi:guide
+       position="55.48422,258.07282"
+       orientation="-1,0"
+       id="guide1101"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="PCB"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect31"
+       width="95.5"
+       height="80.800003"
+       x="52.984222"
+       y="52.263351"
+       rx="1.5"
+       ry="1.5" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="path151"
+       cx="145.98422"
+       cy="54.863331"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="path151-2"
+       cx="87.984222"
+       cy="112.36333"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="path151-7"
+       cx="81.984222"
+       cy="54.863331"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="path151-9"
+       cx="113.48422"
+       cy="112.36333"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path151-9-3"
+       cx="145.98422"
+       cy="118.46335"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path151-9-0"
+       cx="55.484219"
+       cy="118.46335"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path151-9-31"
+       cx="55.484219"
+       cy="54.863331"
+       r="1.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="52.443565"
+       y="140.20995"
+       id="text1935"><tspan
+         sodipodi:role="line"
+         id="tspan1933"
+         style="stroke-width:0.264583;font-size:3.52777778px"
+         x="52.443565"
+         y="140.20995">Note: blue holes to fix speakers only </tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Acryl"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect755"
+       width="95.5"
+       height="68.800003"
+       x="52.984222"
+       y="52.26334"
+       rx="1.4999996"
+       ry="1.4999996" />
+  </g>
+</svg>
